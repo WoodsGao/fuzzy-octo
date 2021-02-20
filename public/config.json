@@ -1,0 +1,8 @@
+{
+    "modules": [
+        "search",
+        "google",
+        "baidu",
+        "bookmarks"
+    ]
+}
